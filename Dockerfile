@@ -11,10 +11,10 @@ RUN set -xe \
 
 EXPOSE 3000 4200 8080
 # make a directory
-RUN mkdir -p /opt/ng_build/project_name
+RUN mkdir -p /opt/ng_build/edgeapp
 
 #copy project
-COPY project/* /opt/ng_build/project_name
+COPY local_project/* /opt/ng_build/edgeapp
 
 #working directory
 WORKDIR /opt/ng_build/
