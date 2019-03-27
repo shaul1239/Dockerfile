@@ -1,0 +1,10 @@
+Hi name_of_manager,
+
+ I have been working for Implementing deployment process for edgeapp using docker.I am new to environment and it took some time to workout on my proxy settings. Now, i have configured my proxy settings and it running fine now.
+ 
+ I am looking forward to complete rest of the task. Also, I would like to inform you that as I am new to environment I need to go through all issues to get better understanding/control over our environment.
+ 
+ I am running back and forth for my environment setup till now so it might take some more days to accomplish tasks that were assigned to me.
+ 
+ Thanks,
+ Shaul
