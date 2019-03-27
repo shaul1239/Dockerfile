@@ -17,4 +17,6 @@ RUN mkdir -p /opt/ng_build/edgeapp
 COPY local_project/* /opt/ng_build/edgeapp
 
 #working directory
-WORKDIR /opt/ng_build/
+WORKDIR /opt/ng_build/edgeapp
+
+RUN ng build
